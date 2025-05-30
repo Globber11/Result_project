@@ -2,7 +2,7 @@ import telebot
 import json
 from core import TaskCore
 
-BOT_TOKEN = "7813358501:AAHNKl9cgAZ1ZSyNdp_W0AB02mlFHNRZ8tY"
+BOT_TOKEN = "no no no mr. fish"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 
