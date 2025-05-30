@@ -1,0 +1,59 @@
+{
+  "1": [
+    {
+      "title": "рп",
+      "description": "пр",
+      "due_date": "05.05.2011",
+      "status": "не выполнена",
+      "global_id": 5
+    },
+    {
+      "title": "2",
+      "description": "2",
+      "due_date": "01.01.0001",
+      "status": "не выполнена",
+      "global_id": 2
+    },
+    {
+      "title": "1",
+      "description": "1",
+      "due_date": "01.01.0001",
+      "status": "не выполнена",
+      "global_id": 1
+    }
+  ],
+  "2": [
+    {
+      "title": "2",
+      "description": "2",
+      "due_date": "01.01.2011",
+      "status": "не выполнена",
+      "global_id": 4
+    },
+    {
+      "title": "1",
+      "description": "1",
+      "due_date": "01.01.2011",
+      "status": "не выполнена",
+      "global_id": 3
+    }
+  ],
+  "3": [
+    {
+      "title": "test",
+      "description": "test",
+      "due_date": "29.05.2025",
+      "status": "Отклонена",
+      "global_id": 6
+    }
+  ],
+  "4": [
+    {
+      "title": "скушать пироженку",
+      "description": "с кофе",
+      "due_date": "28.05.2025",
+      "status": "Отклонена",
+      "global_id": 7
+    }
+  ]
+}
